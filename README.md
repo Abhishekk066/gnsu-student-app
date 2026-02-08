@@ -1,55 +1,56 @@
 # 🎓 GNSU Student App
 
-![Version](https://img.shields.io/badge/version-v1.0-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Android-green.svg)
+![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-Private-red.svg)
 
-**GNSU Student App** ek official portal hai jo Gopal Narayan Singh University ke students ke liye banaya gaya hai. Is app ka uddeshya student life ko digital banana aur zaroori information ko ungliyon par laana hai.
+The **GNSU Student App** is an Android application built for students of  
+**Gopal Narayan Singh University**, providing a centralized and reliable way to access academic services.
 
 ---
 
-## 🚀 Key Features
-
-* **Attendance Tracking**: Apni daily attendance real-time mein monitor karein.
-* **Instant Notifications**: University ke notices aur events ki jankari turant push notifications ke zariye payein.
-* **Secure Access**: User data aur privacy ko dhyan mein rakhte huye advanced security measures apply kiye gaye hain.
-* **Modern UI**: Ek saaf aur asaan interface jo WebView aur native features ka mishran hai.
+## 📦 Current Version
+- **v1.0.0** (Stable)
+- Distributed as APK (outside Google Play Store)
 
 ---
 
-## 📥 Download & Installation
+## ✨ Features
 
-Aap latest stable version niche diye gaye link se download kar sakte hain:
-
-### [➡️ Download GNSU Student APK v1.0](https://github.com/Abhishekk066/gnsu-student-app/releases/download/v1.0.0/gnsu_student_v1.0.0.apk)
-
-**Steps to Install:**
-1.  Upar diye gaye link se APK download karein.
-2.  Agar aapka phone "Unknown Sources" se installation block kare, toh use Settings mein jaakar **Allow** karein.
-3.  Install button dabayein aur apne student credentials se login karein.
+- Clean, modern UI using native Android + WebView
+- Real-time attendance monitoring
+- Automatic attendance notifications
+- University notices and alerts via push notifications
+- Secure login and session handling
+- Stable file downloads with notifications
+- Improved error handling for common web issues
 
 ---
 
-## 🔒 Security & Privacy
+## 📥 Download
+The latest stable APK is available in the **Releases** section of this repository.
 
-Humne is version mein security ko priority di hai:
-* **API Restriction**: Google Cloud aur Firebase keys ko SHA-1 fingerprint ke sath restrict kiya gaya hai taaki koi unauthorized access na kar sake.
-* **Official Identifier**: App ka official package name ab `com.android.gnsustudent` hai.
-* **Private Source**: Security reasons ki wajah se app ka main source code ek private repository mein rakha gaya hai.
+👉 **[Download v1.0.0 APK](https://github.com/Abhishekk066/gnsu-student-app/releases/download/v1.0.0/gnsu_student_v1.0.0.apk)**
+
+---
+
+## 🔐 Security & Privacy
+- API keys are restricted using SHA-1 fingerprints
+- Official package name: `com.android.gnsustudent`
+- Core application source code is maintained in a private repository for security reasons
 
 ---
 
 ## 🛠 Tech Stack
-
-* **Language**: Java (Android Studio)
-* **Backend**: Firebase & Supabase
-* **Automation**: Node.js based scrapers (for attendance/data)
-* **Hardware Integration**: Future support for IoT/ESP32 based smart campus features.
+- **Android**: Java (Android Studio)
+- **Backend Services**: Firebase, Supabase
+- **Automation**: Node.js–based data scraper
 
 ---
 
-## 📧 Support & Feedback
+## 📬 Support
+For issues or feature requests, please use the **Issues** section of this repository.
 
-Agar aapko app mein koi dikkat aa rahi hai ya aap koi naya feature suggest karna chahte hain, toh aap repository ke **Issues** section mein batayein.
+---
 
 **Developed with ❤️ for GNSU Students.**
