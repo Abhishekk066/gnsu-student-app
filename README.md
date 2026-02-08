@@ -10,7 +10,7 @@ The **GNSU Student App** is an Android application built for students of
 ---
 
 ## 📦 Current Version
-- **v1.0.0** (Stable)
+- **v1.0.1** (Stable)
 - Distributed as APK (outside Google Play Store)
 
 ---
