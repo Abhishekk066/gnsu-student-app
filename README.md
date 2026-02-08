@@ -30,7 +30,7 @@ The **GNSU Student App** is an Android application built for students of
 ## 📥 Download
 The latest stable APK is available in the **Releases** section of this repository.
 
-👉 **[Download v1.0.0 APK](https://github.com/Abhishekk066/gnsu-student-app/releases/download/v1.0.0/gnsu_student_v1.0.0.apk)**
+👉 **[Download Latest v1.0.1 APK](https://github.com/Abhishekk066/gnsu-student-app/releases/download/v1.0.1/gnsu_student_v1.0.1.apk)**
 
 ---
 
