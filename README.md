@@ -1,7 +1,7 @@
 # 🎓 GNSU Student App
 
 ![Platform](https://img.shields.io/badge/platform-Android-green.svg)
-![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)
+![Version](https://img.shields.io/badge/version-v1.0.1-blue.svg)
 ![License](https://img.shields.io/badge/license-Private-red.svg)
 
 The **GNSU Student App** is an Android application built for students of  
