@@ -1,7 +1,7 @@
 {
-  "version": "2.0.1",
+  "latest_version": "2.0.1",
   "version_code": 3,
-  "url": "https://github.com/Abhishekk066/gnsu-student-app/releases/download/v2.0.1/gnsu_student_v2.0.1.apk",
-  "changelog": "• SnapTube Player & Downloader: Background play, floating mini-player & 1080p/320k downloads\n• Student ERP & Attendance: Real-time attendance, results, admit cards & portals\n• Ad-Free Smart Browser: Built-in ad blocker, desktop mode, tab grid & PiP media\n• BotHive AI & Dev Hub: Campus AI assistant, online code compiler & e-library\n• MIUI Launcher: Paginated app grid, app folders, custom shortcuts & wallpapers",
-  "min_supported_version": "1.0.0"
+  "update_url": "https://github.com/Abhishekk066/gnsu-student-app/releases/download/v2.0.1/gnsu_student_v2.0.1.apk",
+  "update_description": "• SnapTube Player & Downloader: Background play, floating mini-player & 1080p/320k downloads\n• Student ERP & Attendance: Real-time attendance, results, admit cards & portals\n• Ad-Free Smart Browser: Built-in ad blocker, desktop mode, tab grid & PiP media\n• BotHive AI & Dev Hub: Campus AI assistant, online code compiler & e-library\n• MIUI Launcher: Paginated app grid, app folders, custom shortcuts & wallpapers",
+  "released_date": "16-09-2026"
 }
